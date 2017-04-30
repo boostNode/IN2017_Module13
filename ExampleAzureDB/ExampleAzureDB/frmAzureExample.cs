@@ -8,8 +8,6 @@
  *  NOTE: see Program.cs for comprehensive notes
  */
 
-
-
 using System;
 using DT = System.Data;            // System.Data.dll  
 using QC = System.Data.SqlClient;  // System.Data.dll
