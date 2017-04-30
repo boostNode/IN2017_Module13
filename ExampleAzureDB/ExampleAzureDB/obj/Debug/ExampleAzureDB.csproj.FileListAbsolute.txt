@@ -1,0 +1,9 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\bin\Debug\ExampleAzureDB.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\bin\Debug\ExampleAzureDB.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\bin\Debug\ExampleAzureDB.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\obj\Debug\ExampleAzureDB.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\obj\Debug\ExampleAzureDB.Properties.Resources.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\obj\Debug\ExampleAzureDB.csproj.GenerateResource.Cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\obj\Debug\ExampleAzureDB.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\obj\Debug\ExampleAzureDB.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module13\ExampleAzureDB\ExampleAzureDB\obj\Debug\ExampleAzureDB.frmAzureExample.resources
