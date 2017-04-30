@@ -30,10 +30,11 @@
  *                  (2) Add Data Client to App (C# Console Example Dependency)
  *                      open Visual Studio
  *                      add a new project (demos uses console apps, but you can do windows form apps by tweaking code if you desire)
- *                      under Solution Explorer, select your solution (top line)
- *                      right-click and select "Properties"
- *                      expand "Common Properties" and select "Project Dependencies"
- *                      how ???
+ *                      go to (3) unless doing general purpose (option 2) below
+ *                          under Solution Explorer, select your solution (second line)
+ *                          right-click and select "Properties"
+ *                          select "Settings"
+ *                          set conncetion string as described here:  http://www.c-sharpcorner.com/uploadfile/5089e0/create-single-connection-string-for-all-windows-form-in-net/
  *                      
  *                  (3) Setup Database Connection String (note: demo examples assume you used AdventureWorksLT as your database source ... modify if using your own db)
  *                      demo 1: uses SqlConnectionStringBuilder()
